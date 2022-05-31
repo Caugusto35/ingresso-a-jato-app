@@ -1,4 +1,4 @@
-# Link SDK (android)
+# Link APK (android)
 https://drive.google.com/drive/folders/1o03RWYnE3FcAZ0xOnEsmCYjXw6PnK3Eq
 
 # Link API repository
